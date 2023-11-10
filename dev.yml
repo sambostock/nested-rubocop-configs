@@ -1,0 +1,5 @@
+name: nested-rubocop-configs
+
+up:
+  - ruby: 3.2.2
+  - bundler
